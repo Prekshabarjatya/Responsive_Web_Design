@@ -1,7 +1,3 @@
-I understand! Let me revise that part to make it more humble and focused on your learning journey, rather than sounding boastful. Here's an updated version of the **README**:
-
----
-
 # 🌐 **Responsive Web Design Certification Projects**
 
 This repository contains all the projects and exercises completed during the **FreeCodeCamp Responsive Web Design Certification**.
